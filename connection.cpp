@@ -2,7 +2,7 @@
 #include "QSqlDatabase"
 Connection::Connection()
 {
-
+//test Tutorial git
 }
 
 bool Connection::createconnect()
